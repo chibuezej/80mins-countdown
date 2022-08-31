@@ -1,0 +1,13 @@
+body{
+    background-color: #fff;
+}
+p{
+    border: 10px solid whitesmoke;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: 100px auto;
+    background-color: black;
+    color: white;
+    font-size: 70px;
+}
